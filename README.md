@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**AFETSOS** is a comprehensive, AI-powered emergency communication and decision support platform designed to streamline rescue coordination during high-density natural disasters (such as earthquakes). Developed for the **INOFEST** competition by a team of Computer Engineering students from **İnönü University**, AFETSOS processes unstructured Turkish distress calls—textual or voice-based—in real-time and converts them into structured, prioritized operational data for emergency responders.
+**AFETSOS** is a comprehensive, AI-powered emergency communication and decision support platform designed to streamline rescue coordination during high-density natural disasters (such as earthquakes). Developed for the **İNÜFEST** competition by a team of Computer Engineering students from **İnönü University**, AFETSOS processes unstructured Turkish distress calls—textual or voice-based—in real-time and converts them into structured, prioritized operational data for emergency responders.
 
 ---
 
@@ -133,12 +133,12 @@ Since this repository contains the clean codebase ready for deployment, dependen
 
 ## 👥 The Project Team
 
-* **Hüseyin POLAT** - Team Captain & Lead Mobile Developer (Computer Engineering, İnönü University)
-  * *Responsibilities:* Kotlin Native Android application development, UI/UX design, GPS tracking, and front-end integration.
-* **Levent AYDIN** - Backend Developer & AI Engineer (Computer Engineering, İnönü University)
+* **Hüseyin POLAT** - Team Captain & Backend & AI Engineer (Computer Engineering, İnönü University)
   * *Responsibilities:* Asynchronous FastAPI backend architecture, Natural Language Processing integrations, database schema, and SMS Gateway Webhooks.
+* **Levent AYDIN** - Lead Mobile Developer (Computer Engineering, İnönü University)
+  * *Responsibilities:* Kotlin Native Android application development, UI/UX design, GPS tracking, and front-end integration.
 * **Doç. Dr. Cengiz HARK** - Academic Advisor (Assoc. Prof., Computer Engineering Department, İnönü University)
   * *Responsibilities:* Academic supervision, methodology definition, and scientific validation of NLP frameworks.
 
 ---
-*Developed with dedication for INOFEST 2026.*
+*Developed with dedication for İNÜFEST 2026.*
